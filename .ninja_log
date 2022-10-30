@@ -1,0 +1,18 @@
+# ninja log v5
+2	235	1667157518580094124	CMakeFiles/App.dir/main.cpp.o	7363de90ae5ffbf3
+2	377	1667157518728094124	CMakeFiles/App.dir/src/Matrix.cpp.o	71fd3b12ca020219
+377	416	1667157518764094124	App	6e86c1e31ab3b6ea
+2	379	1667157163624093040	CMakeFiles/App.dir/src/Vector.cpp.o	708a0f3ca2c3e8cd
+3	755	1667157570200094281	CMakeFiles/tests.dir/tests.cpp.o	4038605379b6aab2
+755	815	1667157570260094281	tests[1]_tests.cmake	481c7db5d031126f
+2	247	1667157163492093040	CMakeFiles/tests.dir/src/Vector.cpp.o	69728de8183c79db
+3	378	1667157518728094124	CMakeFiles/tests.dir/src/Matrix.cpp.o	b0c32c3ab6d45bc5
+755	815	1667157570260094281	tests	481c7db5d031126f
+755	815	1667157570260094281	/home/pihtaw/Documents/programming/tehno/project/built/tests[1]_tests.cmake	481c7db5d031126f
+1	229	1667157724448094752	CMakeFiles/App.dir/main.cpp.o	7363de90ae5ffbf3
+1	266	1667157724484094752	CMakeFiles/App.dir/src/Matrix.cpp.o	71fd3b12ca020219
+1	280	1667157724496094752	CMakeFiles/tests.dir/src/Matrix.cpp.o	b0c32c3ab6d45bc5
+266	307	1667157724524094752	App	6e86c1e31ab3b6ea
+280	342	1667157724560094752	tests	481c7db5d031126f
+280	342	1667157724560094752	tests[1]_tests.cmake	481c7db5d031126f
+280	342	1667157724560094752	/home/pihtaw/Documents/programming/tehno/project/built/tests[1]_tests.cmake	481c7db5d031126f
